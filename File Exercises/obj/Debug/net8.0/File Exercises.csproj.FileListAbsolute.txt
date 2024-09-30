@@ -1,0 +1,29 @@
+C:\Dev\File Exercises\File Exercises\bin\Debug\net8.0\File Exercises.exe
+C:\Dev\File Exercises\File Exercises\bin\Debug\net8.0\File Exercises.deps.json
+C:\Dev\File Exercises\File Exercises\bin\Debug\net8.0\File Exercises.runtimeconfig.json
+C:\Dev\File Exercises\File Exercises\bin\Debug\net8.0\File Exercises.dll
+C:\Dev\File Exercises\File Exercises\bin\Debug\net8.0\File Exercises.pdb
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.AssemblyInfoInputs.cache
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.AssemblyInfo.cs
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.csproj.CoreCompileInputs.cache
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.dll
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\refint\File Exercises.dll
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.pdb
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\File Exercises.genruntimeconfig.cache
+C:\Dev\File Exercises\File Exercises\obj\Debug\net8.0\ref\File Exercises.dll
+C:\Dev\GitFolder\File-Exercise\File Exercises\bin\Debug\net8.0\File Exercises.exe
+C:\Dev\GitFolder\File-Exercise\File Exercises\bin\Debug\net8.0\File Exercises.deps.json
+C:\Dev\GitFolder\File-Exercise\File Exercises\bin\Debug\net8.0\File Exercises.runtimeconfig.json
+C:\Dev\GitFolder\File-Exercise\File Exercises\bin\Debug\net8.0\File Exercises.dll
+C:\Dev\GitFolder\File-Exercise\File Exercises\bin\Debug\net8.0\File Exercises.pdb
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.AssemblyInfoInputs.cache
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.AssemblyInfo.cs
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.csproj.CoreCompileInputs.cache
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.sourcelink.json
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.dll
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\refint\File Exercises.dll
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.pdb
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\File Exercises.genruntimeconfig.cache
+C:\Dev\GitFolder\File-Exercise\File Exercises\obj\Debug\net8.0\ref\File Exercises.dll
